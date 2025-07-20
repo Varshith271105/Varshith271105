@@ -61,7 +61,7 @@
 <table>
 <tr>
 <td width="50%">
-<h4><a href="https://github.com/Varshith271105/Sketch_to_Realistic_Image_Conversion_using_GAN">Sketch to Realistic Jewelry</a></h4>
+<h4><a href="https://github.com/Varshith271105/sketch-to-jewelry">Sketch to Realistic Jewelry</a></h4>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
@@ -73,7 +73,7 @@
 </ul>
 </td>
 <td width="50%">
-<h4><a href="https://github.com/Varshith271105/AI-Assisted-Medical-Image-Annotation">AI-Assisted Medical Image Annotation</a></h4>
+<h4><a href="https://github.com/Varshith271105/medical-annotation">AI-Assisted Medical Image Annotation</a></h4>
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -86,7 +86,7 @@
 </tr>
 <tr>
 <td width="50%">
-<h4><a href="https://github.com/Varshith271105/AI_Powered_Resume_Enhancement_Platform">AI-Powered Resume Platform</a></h4>
+<h4><a href="https://github.com/Varshith271105/resume-enhancement">AI-Powered Resume Platform</a></h4>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" />
